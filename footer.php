@@ -19,16 +19,7 @@
 						</div>
 					</div>
 					
-					<div class="row-fluid footer-content">
-						<div class="span6">
-							<p>
-               Hosting gesponsord door <a href="http://www.seeas.nl/" target="_blank">Seeas BV</a><br/><a href="http://www.seeas.nl/" target="_blank" title="Seeas BV">
-              </p>
-              <p>
-               <img src="<?= static_url() ?>img/logo_seeaskl.png" style="height: 15px; border: 1px solid black;" title="Logo Seeas BV"/></a>
-							</p>
-						</div>
-						<div class="span6">
+					<div class="centre footer-content">
 							<p>
                 CC0 1.0 Universal Public Domain Dedication
               </p>
