@@ -1,8 +1,8 @@
 <div id="banner">
 	<div class="m1 clearfix">
-		<p class="first"><strong>Werken voor de Piratenpartij?<strong></p>
+		<p class="first"><strong>Werken voor de Piratenpartij?</strong></p>
 		<p>Gezocht: Buitengewoon Commissielid
-			<span style="float:right; margin-bottom: 20px"
+			<span style="float:right; margin-bottom: 20px">
 				<a href="https://piratenpartij.nl/meedoen/201404-buitengewoon-commissielid/" class="btn btn-primary">meer informatie</a>
 			</span>
 		</p>
