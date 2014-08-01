@@ -1,5 +1,5 @@
 <div id="banner">
-	<div class="m1 clearfix"
+	<div class="m1 clearfix">
 		<p class="first"><strong>Werken voor de Piratenpartij?<strong></p>
 		<p>Gezocht: Buitengewoon Commissielid
 			<span style="float:right; margin-bottom: 20px"
