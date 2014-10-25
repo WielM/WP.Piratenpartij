@@ -21,7 +21,7 @@
       <p style="margin-top: 25px;"><strong>Stop</strong></p>
       <p>TTIP!</p>
       <p class="read-more">
-        <a href="site http://stop-ttip.org/" class="btn btn-primary" title="Ontvang onze nieuwsbrief">Lees meer</a>
+        <a href="http://stop-ttip.org/" class="btn btn-primary" title="Ontvang onze nieuwsbrief">Lees meer</a>
       </p>
     </div>
 
