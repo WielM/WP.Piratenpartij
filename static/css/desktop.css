@@ -569,7 +569,7 @@ input:-moz-placeholder {
 
 #banner .m1 {
   border: 10px solid #eaeaea;
-  background-image: url(../img/blocks/vacature_amsterdam.jpg);
+  background-image: url(../img/blocks/vote_banner.png);
   min-height: 150px;
   font-size: 30px;
   padding: 0 5%; }
@@ -596,6 +596,54 @@ input:-moz-placeholder {
   font-size: 35px;
   padding: 0 5%; }
 
+#banner .upper {
+  margin-top: 10px; }
+
+#banner .upper div {
+  border: 5px solid #eaeaea;
+  height: 150px; }
+
+.lt-ie7 #banner .upper div {
+  max-width: 220px !important; }
+
+#banner .upper .t2 {
+  background: black url(../img/blocks/weekend.jpg) no-repeat;
+  background-position: 100% 50%;
+  text-align: center; 
+  text-shadow: #222 1px 1px 1px;
+}
+
+#banner .upper .t2 p {
+  margin-top: 5px;
+  font-size: 1.2em; }
+
+#banner .upper .t1 {
+  background: black url(../img/blocks/alv.jpg) no-repeat;
+  background-position: 100% 50%;
+  text-shadow: #222 1px 1px 1px;
+  text-align: center; }
+
+#banner .upper .t1 p {
+  margin-top: 5px;
+  font-size: 1.2em; }
+
+#banner .upper .t3 {
+  background: black url(../img/blocks/ttip.jpg) no-repeat;
+  background-position: 100% 50%;
+  text-shadow: #222 1px 1px 1px;
+  text-align: center;
+  padding-right: 85px; }
+
+#banner .upper .t4 p {
+  margin-top: 5px;
+  font-size: 1.2em; }
+
+#banner .upper .c {
+  font-size: 18px; }
+
+#banner .upper .last {
+  margin-right: 0; }
+
 #banner .lower {
   margin-top: 10px; }
 
@@ -609,6 +657,7 @@ input:-moz-placeholder {
 #banner .lower .t2 {
   background: black url(../img/blocks/opinie.jpg) no-repeat;
   background-position: 100% 50%;
+  text-shadow: #222 1px 1px 1px;
   text-align: center; }
 
 #banner .lower .t2 p {
@@ -618,6 +667,7 @@ input:-moz-placeholder {
 #banner .lower .t1 {
   background: black url(../img/blocks/newsletter.jpg) no-repeat;
   background-position: 100% 50%;
+  text-shadow: #222 1px 1px 1px;
   text-align: center; }
 
 #banner .lower .t1 p {
@@ -627,11 +677,13 @@ input:-moz-placeholder {
 #banner .lower .t3 {
   background: black url(../img/blocks/left_jan_2013.png) no-repeat;
   background-position: 100% 50%;
+  text-shadow: #222 1px 1px 1px;
   text-align: center;
   padding-right: 85px; }
 
 #banner .lower .t4 p {
   margin-top: 5px;
+  text-shadow: #222 1px 1px 1px;
   font-size: 1.2em; }
 
 #banner .lower .c {
